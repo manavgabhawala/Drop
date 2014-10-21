@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>Ledge</string>
+		<key>Textures</key>
+		<array>
+			<string>Ledge.png</string>
+		</array>
+		<key>Speed Ratio</key>
+		<integer>1</integer>
+		<key>Distance Minimum</key>
+		<integer>500</integer>
+		<key>Distance Maximum</key>
+		<integer>1000</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Cloud</string>
+		<key>Textures</key>
+		<array>
+			<string>Cloud 1.png</string>
+			<string>Cloud 2.png</string>
+			<string>Cloud 3.png</string>
+			<string>Cloud 4.png</string>
+		</array>
+		<key>Speed Ratio</key>
+		<real>0.5</real>
+		<key>Distance Minimum</key>
+		<integer>0</integer>
+		<key>Distance Maximum</key>
+		<integer>500</integer>
+	</dict>
+</array>
+</plist>
